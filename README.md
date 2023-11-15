@@ -6,9 +6,10 @@ Below you'll find the metadata for each file.
 
 ## world fertility data.csv ##
 
-- **What is this?**: Data for world fertility in 2012.
-- **Source(s) & Methodology**: United Nations, Department of Economic and Social Affairs, Population Division (2013). World Fertility Data 2012 (POP/DB/Fert/Rev2012).
-- **Last Modified**: 2013
+- **What is this?**: The dataset provides a comparable and up-to-date set of national data on fertility and the timing of childbearing for all countries and areas of the world.
+- **Creator**: United Nations, Department of Economic and Social Affairs, Population Division (2013). World Fertility Data 2012 (POP/DB/Fert/Rev2012).
+- **Source**: [the United Nations](https://www.un.org/en/development/desa/population/publications/dataset/fertility/wfd2012/MainFrame.html)
+- **Methodology**: Census, Survey and registration
 - **Variables (Columns)**:
   
 | Header                                   | Description                              | Data Type |

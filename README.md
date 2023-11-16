@@ -1,4 +1,4 @@
-This folder contains the processed data of the annual number of births and crude birth rate in 2012
+This folder contains the processed data of the annual number of births and crude birth rate in 2012.
 
 The data will never be updated.
 
